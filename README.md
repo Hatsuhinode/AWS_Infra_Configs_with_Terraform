@@ -39,8 +39,8 @@ To use the configurations in this repository, ensure the following prerequisites
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/terraform-aws-infrastructure.git
-cd terraform-aws-infrastructure
+https://github.com/Hatsuhinode/AWS_Infra_Configs_with_Terraform.git
+cd AWS_Infra_Configs_with_Terraform
 ```
 
 
