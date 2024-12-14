@@ -1,6 +1,6 @@
 # 🛠️ Terraform AWS Infrastructure Provisioning
 
-This repository contains Terraform configurations for provisioning essential AWS infrastructure. The configurations are designed to create foundational resources, facilitating the deployment of cloud-based applications in a controlled and scalable environment.
+Welcome to the AWS_Infra_Configs_with_Terraform repository! This repository contains Terraform configurations for provisioning essential AWS infrastructure. The configurations are designed to create foundational resources, facilitating the deployment of cloud-based applications in a controlled and scalable environment.
 
 
 ---
